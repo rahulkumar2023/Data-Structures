@@ -1,3 +1,7 @@
+"""
+This program increases the size of a stack when needed, and converts recursive functions into non-recursive functions by using stacks.
+"""
+
 # Stack Implementation
 class Stack:
     def __init__(self):
