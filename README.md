@@ -116,12 +116,6 @@ Run the file to conduct experiments and compare BFS and DFS performance on rando
 
 ---
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use and modify the code.
-
----
-
 ## Author
 
 Rahul Kumar
