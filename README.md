@@ -124,5 +124,4 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 ## Author
 
-Rahul Kumar  
-*Contact: rahul.kumar@example.com*
+Rahul Kumar
